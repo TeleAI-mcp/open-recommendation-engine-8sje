@@ -1,2 +1,3 @@
-# open-recommendation-engine-8sje
+# Open Recommendation Engine 8Sje
+
 A repository to test GitHub automation for issue management.
